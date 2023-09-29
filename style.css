@@ -37,6 +37,10 @@ body{
 .main-div div p{
   font-size: 50px;
   font-weight: bolder;
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+  border-radius: 5px;
   
 }
 .main-div button{
